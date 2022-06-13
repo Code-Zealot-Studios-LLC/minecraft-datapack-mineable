@@ -16,7 +16,7 @@
 - Locate the `datapacks` directory for the world in which you would like to install Mineable
     - For a world hosted via Single Player or LAN: `.minecraft/saves/<your_world>/datapacks/`
     - For a world hosted via an official Mojang `server.jar`: `/<your_world>/datapacks/`
-- Download Mineable as a `.zip` and place it within the datapack directory you located above. There is no need to unzip it for a successful installation.
+- Download Mineable as a `.zip` and place it within the datapack directory you located above. Make sure that it is named `Mineable by Code Zealot Studios LLC`, as this is required for the pack to be disabled in the uninstall script below. There is no need to unzip it for a successful installation.
 - Open your `Minecraft: Java Edition` client and join the world to begin the Mineable automatic installation process.
     - If installing on a server that is currently running (or a Single Player/LAN world that is already running in the client), you will need to run `/reload` for the datapack to be registered and installed. Alternatively, you could restart the server or close and reopen the Single Player/LAN world.
 - Mineable will alert you when installation is complete.
