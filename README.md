@@ -1,11 +1,11 @@
 # Mineable by Code Zealot Studios LLC
 ## Supported Versions
-**Mineable 1.0.0** ➡️ *Minecraft: Java Edition 1.19+*
+**Mineable 1.0.0** ➡️ *Minecraft: Java Edition 1.19*
 ## Features
 - *Mineable by Code Zealot Studios LLC* is a utility datapack that provides a scoreboard objective for every mineable block in *Minecraft: Java Edition*.
 - *Mineable* also provides additional objectives that are useful for tracking mining related statistics, such as total blocks mined by a player or how many blocks have been mined by a player using a particular tool like `minecraft:diamond_pickaxe`.
 - Built with creativity in mind, *Mineable* is meant to extend the datapacks of others. It provides an easy to use system for detecting when a player breaks a block, which you can then hook into from another datapack to create additional functionality.
-    - For example, rewarding a player for ever x blocks mined, etc
+    - For example, rewarding a player for every x blocks mined, etc
 - Useful tool alongside other utility datapacks geared towards stopping x-ray texture packs in vanilla Minecraft. Use Mineable to know exactly how many `minecraft:diamonds` have been collected by a specific player.
 ## Plans for the Future
 - A massive advancement tree for tracking mining related milestones, such as `1,000,000 Diamonds Mined!`
