@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "A utility datapack for tracking mining related statistics and detecting block-breaking"
+    }
+}
